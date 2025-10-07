@@ -91,7 +91,7 @@ const {id, name, image, job, text} = user[count]
           </div>
 
           <button className="random-btn" onClick={handleRandom}>
-            Surprise Me
+            surprise me
           </button>
         </article>
       </section>
